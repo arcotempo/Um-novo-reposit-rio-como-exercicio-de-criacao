@@ -1,2 +1,2 @@
-# Um novo repositório como exercicio de criacao
+# Um novo repositório como exercício de criação
 Acompanhamento de aula do CEV
